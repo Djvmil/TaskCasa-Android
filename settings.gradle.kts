@@ -15,4 +15,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "TaskCasa"
 include(":app")
- 
+include(":data")
+include(":domain")
